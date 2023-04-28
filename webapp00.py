@@ -13,7 +13,7 @@ st.header("de Caio Cortez")
 st.subheader("Bem vindos, calvos!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("A calvíce é algo que afeta muitas pessoas pelo mundo inteiro, principalmente homens mais velhos. Ultimamente tem crescido muito o número de casos de calvice entre os mais novos.")
 
 st.info("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
